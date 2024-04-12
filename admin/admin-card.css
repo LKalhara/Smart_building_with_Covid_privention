@@ -1,0 +1,39 @@
+body{
+	background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(wp4100997.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+.card-block-one{
+	display: flex;
+}
+.card-block-two{
+	display: flex;
+}
+.card-container-form{
+	background: rgba(211, 211, 211, 0.5)!important;
+	max-width: 1000px;
+	float: none;
+	margin: 30px auto;
+	padding: 30px;
+	padding-left: 100px;
+	display: block;
+	border-radius: 10px;
+}
+.card{
+	border-radius: 10px;
+	padding: 10px;
+	margin: 5px 5px 5px 5px;
+	
+}
+.log-out{
+	position: absolute;
+	top: 13px;
+	right: 26px;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: white;
+}
+
+

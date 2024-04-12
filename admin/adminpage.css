@@ -1,0 +1,17 @@
+body{
+	background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(18, 18, 17, 0.7)),url(wp4100997.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+.login-container-box{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+	padding: 30px;
+	background: rgba(211, 211, 211, 0.5);
+	box-shadow: black;
+}
+.form-control{
+	background: transparent !important;
+}

@@ -1,0 +1,17 @@
+body{
+	background-color: lightgray;
+}
+.pan-from{
+	margin: 200px;
+	position: relative;
+	background-color: white;
+	text-align: center;
+
+}
+#home-page-user-btn{
+	
+	padding: 10px;
+}
+#home-page-admin-btn{
+	
+	
